@@ -22,6 +22,7 @@ certain graphs, and provide interactive simulations for people to better underst
 | Complete Graph ($K_{100}$)  | $\frac{1}{100}$ | 0.0127 |
 | Complete Graph ($K_{150}$)  | $\frac{1}{150}$ | 0.0076 |
 
+You can read more about this topic [in the final report this code was created for](Math_Final_Report.pdf).
 
 ## Features
 - Simulates Bond Percolation: Runs simulations on finite 2D square, triangle, 3D cube, and complete graphs
